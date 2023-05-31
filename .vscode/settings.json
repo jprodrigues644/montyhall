@@ -1,0 +1,6 @@
+{
+    "vue.codeActions.enabled": false,
+    "eslint.workingDirectories": [
+        {"mode": "auto"}
+      ]
+}
