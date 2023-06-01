@@ -10,7 +10,7 @@
      
       <button  v-if="!started"  @click="generateRandomNumber(amountPorts), started=true" >Démarrer</button>
        
-      <button  v-if="started"  @click="started = false" >Rédemarrer</button>
+      <button  v-if="started"  @click="started = false" >Redémarrer</button>
       
     </div>
     <div class="doors " v-if="started">
